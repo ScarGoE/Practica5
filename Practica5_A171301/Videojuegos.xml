@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/scarp/Desktop/Noveno/serv_web/Practica5_A171301/Videojuegos.xsl"?>
+<Juegos>
+<Juego>
+  <Nombre>World of Warcraft</Nombre>
+  <Genero>MMORPG</Genero>
+</Juego>
+<Juego>
+  <Nombre>Star Wars Battlefront II</Nombre>
+  <Genero>Disparos</Genero>
+</Juego>
+<Juego>
+  <Nombre>Dauntless</Nombre>
+  <Genero>Aventura</Genero>
+</Juego>
+</Juegos>
